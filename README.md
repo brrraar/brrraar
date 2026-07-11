@@ -7,35 +7,28 @@ I am an undergraduate Information Technology student with a strong interest in *
 ## Regularly Using
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php,laravel,html,css,mysql,postgres,mongodb,git,github,linux,kali,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,laravel,html,css,mysql,postgres,mongodb,git,github,linux,kali,vscode,figma" />
 </p>
 
 <p align="left">
   <img src="assets/excel.webp" width="45" alt="Microsoft Excel"/>
   <img src="assets/word.webp" width="45" alt="Microsoft Word"/>
   <img src="assets/powerpoint.webp" width="45" alt="Microsoft PowerPoint"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
 ## Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abrar-rahman-haqeem-bachrie-457b98329/" target="_blank">
+  <a href="https://www.linkedin.com/in/abrar-rahman-haqeem-bachrie-457b98329/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/brrraar" target="_blank">
+  <a href="https://instagram.com/brrraar">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:abrarrahmanhakim@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  &nbsp;
-</p>
-
-## Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brrraar&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrraar&layout=compact&theme=github_dark&hide_border=true" />
 </p>
