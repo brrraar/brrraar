@@ -31,8 +31,6 @@ I am an undergraduate Information Technology student with a strong interest in *
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
-  <code>brrraar</code>
 </p>
 
 ## Statistics
