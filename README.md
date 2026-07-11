@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Header_Github.jpg" width="100%">
+</p>
+
 I am an undergraduate Information Technology student with a strong interest in **Data Science** and **Artificial Intelligence**. I enjoy transforming data into meaningful insights through analysis, visualization, and machine learning. I am continuously learning new technologies while building real-world projects that solve practical problems.
 
 ## Regularly Using
