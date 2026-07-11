@@ -7,14 +7,16 @@ I am an undergraduate Information Technology student with a strong interest in *
 ## Regularly Using
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,laravel,html,css,mysql,postgres,mongodb,git,github,linux,kali,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,html,css,laravel,mysql,postgres,mongodb,git,github,linux,kali,vscode,figma" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="48" alt="Cisco"/>
 </p>
+
+## Microsoft Office
 
 <p align="left">
   <img src="assets/excel.webp" width="45" alt="Microsoft Excel"/>
   <img src="assets/word.webp" width="45" alt="Microsoft Word"/>
   <img src="assets/powerpoint.webp" width="45" alt="Microsoft PowerPoint"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
 ## Connect with Me
