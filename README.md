@@ -60,50 +60,6 @@ I enjoy exploring data, building machine learning models, developing web applica
 <img src="assets/powerpoint.webp" width="45">
 </p>
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=brrraar&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brrraar&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brrraar&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brrraar&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brrraar&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brrraar&theme=github_dark&utcOffset=8"/>
-
-</p>
-
----
-
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brrraar&theme=github-compact"/>
-
-</p>
-
----
 
 # 🌐 Connect with Me
 
