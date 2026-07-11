@@ -3,39 +3,30 @@
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Abrar Rahman Haqeem Bachrie
+Hello everyone, I'm Abrar!
 </h1>
 
 <h3 align="center">
 Information Technology Undergraduate • Data Science Enthusiast • AI Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=brrraar&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/brrraar?label=Followers&style=flat"/>
-<img src="https://img.shields.io/github/stars/brrraar?affiliations=OWNER&style=flat"/>
-</p>
 
----
 
-## 👨🏻‍💻 About Me
+
+##  About Me
 
 I'm an undergraduate Information Technology student passionate about **Data Science**, **Artificial Intelligence**, and **Software Development**.
 
 I enjoy exploring data, building machine learning models, developing web applications, and continuously improving my programming skills through real-world projects.
 
 - 📍 Bali, Indonesia
-- 🎓 Information Technology Student
-- 🌱 Currently learning Deep Learning & LLM
+- 🎓 Information Technology Student Universitas Udayana
 - 📊 Interested in Data Science
 - 🤖 Interested in Artificial Intelligence
-- 💻 Love building software projects
-- 📫 Reach me:
-  **abrarrahmanhakim@gmail.com**
 
 ---
 
-# 🚀 Tech Stack
+# Regularly Using
 
 ## Programming Languages
 
@@ -103,15 +94,6 @@ I enjoy exploring data, building machine learning models, developing web applica
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=brrraar&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
