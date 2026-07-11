@@ -4,42 +4,29 @@
 
 <h1 align="center">Hello everyone, I'm Abrar!</h1>
 
-<h3 align="center">
+<p align="center">
 Information Technology Undergraduate • Data Science Enthusiast • AI Enthusiast
-</h3>
+</p>
+
+<p align="center">
+Passionate about building data-driven solutions and continuously learning new technologies.
+</p>
+
+---
 
 ## About Me
 
-I'm an undergraduate Information Technology student at **Universitas Udayana**, based in **Bali, Indonesia**, with a strong interest in **Data Science**, **Artificial Intelligence**, and **Software Development**. I enjoy exploring data, building machine learning models, developing web applications, and continuously improving my programming skills through real-world projects.
+I'm an undergraduate Information Technology student at **Universitas Udayana**, Indonesia, with a strong interest in **Data Science**, **Artificial Intelligence**, and **Software Development**. I enjoy transforming data into meaningful insights, developing web applications, and continuously expanding my skills by building real-world projects.
+
 ---
 
-## Regularly Using
-
-### Programming Languages
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,html,css,laravel,mysql,postgres,mongodb,git,github,linux,kali,vscode,figma" />
 </p>
 
-### Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,laravel" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,kali,vscode,figma" />
-</p>
-
-### Microsoft Office
+## Microsoft Office
 
 <p align="left">
   <img src="assets/excel.webp" width="45" alt="Microsoft Excel">
