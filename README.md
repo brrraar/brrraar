@@ -7,14 +7,11 @@ I am an undergraduate Information Technology student with a strong interest in *
 ## Regularly Using
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp,html,css,mysql,postgres,mongodb,flask,laravel,git,github,linux,kali,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,laravel,c,cpp,html,css,mysql,postgres,mongodb,git,github,linux,kali,vscode,figma" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gradio-FF7A00?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="42" alt="Word"/>
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="42" alt="PowerPoint"/>
 </p>
