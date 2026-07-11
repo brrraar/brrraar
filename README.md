@@ -2,7 +2,13 @@
   <img src="assets/Header_Github.jpg" width="100%" alt="Abrar Rahman Haqeem Bachrie">
 </p>
 
-I am an undergraduate Information Technology student with a strong interest in **Data Science** and **Artificial Intelligence**. I enjoy transforming data into meaningful insights through analysis, visualization, and machine learning. I am continuously learning new technologies while building real-world projects that solve practical problems.
+<h2 align="center">Hello, I'm Abrar!</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brrraar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+I am an undergraduate Information Technology student with a strong interest in **Data Science** and **Artificial Intelligence**. I enjoy transforming data into meaningful insights through data analysis, visualization, and machine learning while continuously learning new technologies and building real-world software projects.
 
 ## Regularly Using
 
