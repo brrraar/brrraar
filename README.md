@@ -16,28 +16,28 @@ I am an undergraduate Information Technology student with a strong interest in *
   <img src="assets/powerpoint.webp" width="45" alt="Microsoft PowerPoint"/>
 </p>
 
-## Statistic
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brrraar&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrraar&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 ## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abrar-rahman-haqeem-bachrie-457b98329/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/brrraar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:abrarrahmanhakim@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
   <code>brrraar</code>
+</p>
+
+## Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brrraar&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrraar&layout=compact&theme=github_dark&hide_border=true" />
 </p>
