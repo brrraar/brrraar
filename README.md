@@ -8,7 +8,6 @@ I am an undergraduate Information Technology student with a strong interest in *
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,html,css,laravel,mysql,postgres,mongodb,git,github,linux,kali,vscode,figma" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="48" alt="Cisco"/>
 </p>
 
 ## Microsoft Office
