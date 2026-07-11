@@ -1,7 +1,3 @@
-# Hi there! 👋
-
-My name is **Abrar**.
-
 I have a strong interest in **Data Science** and enjoy transforming data into meaningful insights through analysis, visualization, and machine learning. I am continuously learning new tools and technologies while exploring real-world projects that combine data, artificial intelligence, and software development to solve practical problems.
 
 ## 💻 Tech Stack
